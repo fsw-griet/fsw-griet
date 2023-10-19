@@ -3,7 +3,7 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fsw-griet&theme=dark&count_private=true" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=fsw-griet&show_icons=true&theme=dark&count_private=true" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fsw-griet&theme=dark&show_icons=true&layout=compact&hide=css,scss&count_private=true"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=fsw-griet&theme=dark&count_private=true&show_icons=true" />
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=fsw-griet&theme=dark&count_private=true&show_icons=true" /> -->
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=fsw-griet&rank=AA,B,AAA,A,C&theme=onedark&count_private=true" />
 
 <!--
