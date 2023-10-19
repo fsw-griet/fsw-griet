@@ -1,7 +1,13 @@
-### Hi there 👋
+# Hello, Contributors! 👋 <img width="30" height="30" src="https://user-images.githubusercontent.com/44140921/119137937-0e555700-ba61-11eb-8bd8-c4cf32f9e005.gif">
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fsw-griet&theme=dark&count_private=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=fsw-griet&show_icons=true&theme=dark&count_private=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fsw-griet&theme=dark&show_icons=true&layout=compact&hide=css,scss&count_private=true"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=fsw-griet&theme=dark&count_private=true&show_icons=true" />
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=fsw-griet&rank=AA,B,AAA,A,C&theme=onedark&count_private=true" />
 
 <!--
-**fsw-griet/fsw-griet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**kvenkatamar/kvenkatamar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
